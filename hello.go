@@ -1,5 +1,5 @@
 package awesomeProject
 
-func hello() string {
+func Hello() string {
 	return "hello, amogus"
 }
